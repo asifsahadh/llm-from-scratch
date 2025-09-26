@@ -5,3 +5,6 @@ train.bin
 gpt2
 __pycache__
 sms-spam-collection
+train.csv
+validation.csv
+test.csv
