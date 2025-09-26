@@ -4,3 +4,4 @@ model_and_optimizer.pth
 train.bin
 gpt2
 __pycache__
+sms-spam-collection
