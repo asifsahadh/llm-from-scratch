@@ -8,3 +8,4 @@ sms-spam-collection
 train.csv
 validation.csv
 test.csv
+ft-instruct.pth
