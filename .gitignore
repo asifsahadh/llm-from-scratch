@@ -10,3 +10,8 @@ validation.csv
 test.csv
 ft-instruct.pth
 200k.csv
+06-chess-move.ipynb
+chess-game-steps.txt
+ai-to-personal-data.json
+text-personalizer-steps.txt
+chess-move.pth
