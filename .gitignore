@@ -15,5 +15,5 @@ chess-game-steps.txt
 ai-to-personal-data.json
 text-personalizer-steps.txt
 chess-move.pth
-07-eng-style-finetuning.ipynb
-ai-2-personal.pth
+07-ai-to-personal.ipynb
+ai-to-personal.pth
