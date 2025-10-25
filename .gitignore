@@ -11,9 +11,11 @@ test.csv
 ft-instruct.pth
 200k.csv
 06-chess-move.ipynb
+06-chess-move-big.ipynb
 chess-game-steps.txt
 ai-to-personal-data.json
 text-personalizer-steps.txt
 chess-move.pth
 07-ai-to-personal.ipynb
 ai-to-personal.pth
+lichess-2013-2014-fen.csv
