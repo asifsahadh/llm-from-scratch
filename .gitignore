@@ -21,3 +21,5 @@ ai-to-personal.pth
 lichess-2013-2014-fen.csv
 ai-2-personal-fresh.pth
 testing.ipynb
+apps
+lichess-fen.csv
