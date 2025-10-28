@@ -27,4 +27,7 @@ lichess-fen.csv
 chess-move-latest.pth
 chess-move-new.pth
 eng-mal
-chekpoints
+checkpoints
+06b-chess-move-big copy.ipynb
+a2p-testing.ipynb
+chess-testing.ipynb
