@@ -26,8 +26,12 @@ lichess-fen.csv
 08-enc-dec.ipynb
 chess-move-latest.pth
 chess-move-new.pth
+chess-move-latest.pth
 eng-mal
 checkpoints
-06b-chess-move-big copy.ipynb
+06a-chess-move-final.ipynb
+06b-chess-move-mega.ipynb
 a2p-testing.ipynb
 chess-testing.ipynb
+pics
+chess-move-last-horrible.pth
